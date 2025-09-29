@@ -6,6 +6,8 @@
 ## 🥓/NOTICE: this markdown file is unfinished!!!!
 > im still learning how to format a md file,  
 > and i also have more work to do so i dont think this markdown document will be finished soon.
+# hi
+![what](https://raw.githubusercontent.com/reik0archive/reik0archive/refs/heads/images/image_2025-09-29_072348326.png)
 <!--
 **reik0archive/reik0archive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
