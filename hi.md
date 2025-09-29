@@ -1,5 +1,6 @@
 # 🍰/featured images!!! ^w^
 ![what](https://raw.githubusercontent.com/reik0archive/reik0archive/refs/heads/images/image_2025-09-29_072348326.png)
+:octocat:
 <!--
 **reik0archive/reik0archive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
